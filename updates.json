@@ -1,0 +1,16 @@
+{
+  "pc": {
+    "version": "3d50322224e40c1117230ee531d8a1d208bfccf8bde83e8b3af063b489455fd3",
+    "pretty_version": "0.0.1",
+    "renpy_version": "8.5.2.26010301",
+    "rpu_url": "rpu/pc.files.rpu",
+    "rpu_digest": "e75790d6957881d5750a00f99603b74c03fa7059dea1d97e98d536003f3bb649"
+  },
+  "mac": {
+    "version": "df9b683be64e177f034acf240dbec577e7f491ec5b5fc90776beeb0278919be3",
+    "pretty_version": "0.0.1",
+    "renpy_version": "8.5.2.26010301",
+    "rpu_url": "rpu/mac.files.rpu",
+    "rpu_digest": "ee0e4f1ea11b99cac87b5bc6a24dcc479361c92289c23f7ecc31e21add9d7d40"
+  }
+}
